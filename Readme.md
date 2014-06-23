@@ -1,0 +1,1 @@
+Budget, still in the beta stages, seeks to aid users in keeping their personal finances together. Budget will have you enter all of your accounts and transactions and put all of that data into a more easy to read excel workbook with three sheets (summary of accounts, general journal, and T-Accounts) for each month. 
